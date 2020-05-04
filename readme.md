@@ -18,7 +18,7 @@
 
 # GoMarketplace
 
-Mobile marketplace application.
+🛒 Mobile marketplace application.
 
 ![screen1](/docs/screen1.png)
 
@@ -36,7 +36,7 @@ Mobile marketplace application.
 
 `yarn json-server server.json -p 3333`
 
-### Additional step to IOS device
+### Additional step to IOS device ⚠️
 
 `cd ios && pod install && cd ..`
 
